@@ -3,7 +3,7 @@
 # 📖 Challenge Literalura
 
 ## 🔍 Descrição  
-Este desafio consiste em criar uma aplicação com **Spring Boot** para realizar:  
+
 1. Pesquisas de livros utilizando a API **Gutendex** (https://gutendex.com).  
 2. Operações de persistência e exibição de dados.  
 
