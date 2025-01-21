@@ -17,8 +17,8 @@ Este desafio consiste em criar uma aplicação com **Spring Boot** para realizar
 
 ### Passos para rodar o projeto:  
 
-1. Configure as credenciais do PostgreSQL no arquivo `application.properties`.  
-2. Execute o projeto a partir do seu ambiente de desenvolvimento, como o **IntelliJ IDEA**.  
+- Configure as credenciais do PostgreSQL no arquivo `application.properties`.
+- Execute o projeto a partir do seu ambiente de desenvolvimento, como o **IntelliJ IDEA**.  
 
 ---
 
@@ -31,10 +31,9 @@ Este desafio consiste em criar uma aplicação com **Spring Boot** para realizar
   - Lista autores vivos em um ano específico.  
   - Filtra livros com base em uma linguagem definida pelo usuário.  
 
----
+--- 
 
 ## 🛠️ Tecnologias  
-
 - **Linguagem:** Java  
 - **Framework:** Spring Boot  
 - **Banco de Dados:** PostgreSQL
